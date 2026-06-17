@@ -87,6 +87,7 @@ A forklift resource pool with capacity 1 was introduced to simulate limited unlo
 
 Dynamic Unloading Time
 Unloading duration depends on order size: Unloading Time = Order Quantity × 10 minutes.
+
 This allows larger orders to require longer processing times, improving simulation realism.
 
 Technologies Used
